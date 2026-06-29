@@ -1,0 +1,7 @@
+{
+    "hid": 512,
+    "batch_size": 512,
+    "layers": 4,
+    "lr": 0.0001780686488381707,
+    "aggregation": "max"
+}
