@@ -1,0 +1,7 @@
+{
+    "hid": 256,
+    "batch_size": 1024,
+    "layers": 2,
+    "lr": 0.003436223622321329,
+    "aggregation": "max"
+}

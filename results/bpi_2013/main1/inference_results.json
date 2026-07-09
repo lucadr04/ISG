@@ -1,0 +1,13 @@
+{
+  "n_traces": 139,
+  "avg_trace_len": 4.424460431654676,
+  "end_reached": 102,
+  "lev_act_mean": 27.964028776978417,
+  "lev_act_std": 42.33157730102539,
+  "lev_res_mean": 30.35251798561151,
+  "lev_res_std": 42.58305740356445,
+  "mae_stepbystep_mean": 0.0433205009910641,
+  "mae_stepbystep_std": 0.02621951885521412,
+  "mae_remaining_mean": 6.664365796642522,
+  "mae_remaining_std": 12.832918167114258
+}
