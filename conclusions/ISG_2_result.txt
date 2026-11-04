@@ -1,0 +1,55 @@
+sp2020
+=======================================================
+  AUTOREGRESSIVE INFERENCE RESULTS (4782 traces)
+=======================================================
+  - End Not Reached               : 0 times, (0.0%)
+  - Avg & Max Trace Length (GT)   : 6.32, 10
+  - Sequence Accuracy             : 20.58% perfect matches
+  - Length Error (MAE)            : 0.93 +/- 1.50 events
+-------------------------------------------------------
+  - DL Similarity Activity        : 73.64% +/- 18.82%
+  - DL Similarity Resource        : 78.36% +/- 15.65%
+  - MAE Remaining Time            : 0.0107 +/- 0.2635 (time units)
+=======================================================
+
+bpi20RFP
+=======================================================
+  AUTOREGRESSIVE INFERENCE RESULTS (1361 traces)
+=======================================================
+  - End Not Reached               : 0 times, (0.0%)
+  - Avg & Max Trace Length (GT)   : 4.49, 19
+  - Sequence Accuracy             : 65.98% perfect matches
+  - Length Error (MAE)            : 0.41 +/- 0.78 events
+-------------------------------------------------------
+  - DL Similarity Activity        : 92.32% +/- 12.46%
+  - DL Similarity Resource        : 72.55% +/- 9.41%
+  - MAE Remaining Time            : 0.0109 +/- 0.0115 (time units)
+=======================================================
+
+bpi12
+=======================================================
+  AUTOREGRESSIVE INFERENCE RESULTS (2618 traces)
+=======================================================
+  - End Not Reached               : 0 times, (0.0%)
+  - Avg & Max Trace Length (GT)   : 17.27, 108
+  - Sequence Accuracy             : 15.39% perfect matches
+  - Length Error (MAE)            : 13.56 +/- 15.11 events
+-------------------------------------------------------
+  - DL Similarity Activity        : 33.22% +/- 32.44%
+  - DL Similarity Resource        : 14.10% +/- 13.19%
+  - MAE Remaining Time            : 0.0665 +/- 0.0855 (time units)
+=======================================================
+
+bpi13
+=======================================================
+  AUTOREGRESSIVE INFERENCE RESULTS (139 traces)
+=======================================================
+  - End Not Reached               : 0 times, (0.0%)
+  - Avg & Max Trace Length (GT)   : 4.42, 18
+  - Sequence Accuracy             : 25.90% perfect matches
+  - Length Error (MAE)            : 2.01 +/- 2.81 events
+-------------------------------------------------------
+  - DL Similarity Activity        : 68.61% +/- 23.17%
+  - DL Similarity Resource        : 0.00% +/- 0.00%
+  - MAE Remaining Time            : 0.0307 +/- 0.0234 (time units)
+=======================================================

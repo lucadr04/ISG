@@ -89,11 +89,11 @@ def drawer(g_original):
     row_labels = {0: "Other attributes", 1: "Activities", 2: "Timestamps", 3: "Resources"}
     x_min = min(p[0] for p in pos.values()) - 1
 
-    fig, ax = plt.subplots(figsize=(15, 5))
+    fig, ax = plt.subplots(figsize=(12, 6))
     node_color=[node_color[n] for n in G.nodes()]
     nx.draw(G, pos, labels=node_label, with_labels=True,
-            node_size=2500, font_size=6, node_color=[node_color[n] for n in G.nodes()],
-            edgecolors="black", linewidths=1.0, ax=ax)
+            node_size=3000, font_size=9, node_color=[node_color[n] for n in G.nodes()],
+            edgecolors="black", linewidths=1.6, ax=ax)
     nx.draw_networkx_edge_labels(G, pos, edge_labels=edge_label,
                               font_size=5, label_pos=0.3, ax=ax)
 

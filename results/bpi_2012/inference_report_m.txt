@@ -1,0 +1,13 @@
+
+═══════════════════════════════════════════════════════
+  AUTOREGRESSIVE INFERENCE RESULTS (1323 traces, 10-prefix)
+═══════════════════════════════════════════════════════
+  ‣ End Not Reached               : 0 times, (0.0%)
+  ‣ Avg & Max Trace Length (GT)   : 22.49, 100
+  ‣ Sequence Accuracy             : 2.34% perfect matches
+  ‣ Length Error (MAE)            : 12.94 ± 11.37 events
+───────────────────────────────────────────────────────
+  ‣ DL Similiarity Activity       : 29.86% ± 15.74%
+  ‣ DL Similiiarity Resource      : 13.99% ± 14.59%
+  ‣ MAE Remaining Time            : 0.1197 ± 0.0969 (time units)
+═══════════════════════════════════════════════════════
