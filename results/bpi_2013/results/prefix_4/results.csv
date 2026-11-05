@@ -1,0 +1,2 @@
+n_traces,prefix_len,avg_trace_len,max_trace_len,end_not_reached,seq_acc_mean,len_err_mean,len_err_std,dl_normsim_act_mean,dl_normsim_act_std,dl_normsim_res_mean,dl_normsim_res_std,mae_remaining_mean,mae_remaining_std
+61,4,4.918032786885246,16,0,0.14754098360655737,2.442622950819672,2.9917919635772705,0.6343371792142284,0.2222524732351303,0.0,0.0,0.03401931441737256,0.022052612155675888

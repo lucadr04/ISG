@@ -213,3 +213,4 @@ data/datasets/*
 .python-version
 old*
 nohup.out
+conclusions/
